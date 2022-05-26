@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LetsGo/app/src/main/res/drawable/side_nav_bar.xml" value="0.123" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/activity_custommer_call.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/activity_drawer_home.xml" value="0.2" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/activity_driver_tracking.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/activity_trip_detail.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/activity_trip_history.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/app_bar_drawer_home.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/content_drawer_home.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/fragment_history.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/layout_change_pwd.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/layout_forgot_pwd.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/layout_login.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/layout_register.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/layout_register_phone.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/layout/layout_update_car_type.xml" value="0.209375" />
+        <entry key="..\:/LetsGo/app/src/main/res/menu/activity_drawer_home_drawer.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/drawable/btn_sign_in_background.xml" value="0.123" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/activity_custommer_call.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/activity_drawer_home.xml" value="0.33" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/activity_driver_tracking.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/activity_trip_detail.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/activity_trip_history.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/app_bar_drawer_home.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/content_drawer_home.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/fragment_history.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/layout_change_pwd.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/layout_forgot_pwd.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/layout_login.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/layout_register.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/layout_register_phone.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/layout_update_car_type.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/layout_update_information.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/nav_header_drawer_home.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/layout/template_history.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/menu/activity_drawer_home_drawer.xml" value="0.209375" />
+        <entry key="..\:/Users/Dell PC/Desktop/Project/LetsGo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.123" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
